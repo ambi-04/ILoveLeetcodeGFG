@@ -1,29 +1,31 @@
-class Solution {
+class Solution 
+{
+    public static boolean func(String s, int l, int r)
+    {
+        if(l > r)
+            return true;
+        char ch1 = s.charAt(l);
+        char ch2 = s.charAt(r);
+        if(ch1  >= 65 && ch1 <= 90)
+        {
+            ch1 = (char)(ch1  + 32);
+        }
+        if(ch2 >= 65 && ch2 <= 90)
+        {
+            ch2 = (char)(ch2  + 32);
+        }
+        if(!(ch1 >= 48 && ch1 <= 57) && !(ch1 >= 97 && ch1 <= 122) )
+            return func(s,l+1,r);
+        if(!(ch2 >= 48 && ch2 <= 57) && !(ch2 >= 97 && ch2 <= 122) )
+            return func(s,l,r - 1);
+        if(ch1 == ch2)
+            return func(s,l + 1,r - 1);
+        return false;
+        
+    }
     public boolean isPalindrome(String s) 
     {
-        boolean result = true;
-        StringBuilder cleaned_string = new StringBuilder();
-        for(int i = 0;i < s.length(); i++)
-        {
-            char ch = s.charAt(i);
-            if((ch >= 'a' && ch <= 'z') || (ch >= '0' && ch <= '9'))
-                cleaned_string.append(ch);
-            else if (ch >= 'A' && ch <= 'Z')
-                cleaned_string.append((char)(ch + 32));
-        }
-        int i = 0;
-        int j = cleaned_string.length() - 1;
-        while(i <= j)
-        {
-            if(cleaned_string.charAt(i) != cleaned_string.charAt(j))
-            {
-                result = false;
-                break;
-            }
-            i++;
-            j--;
-        }
-        return result;
-        
+        return func(s,0,s.length() - 1);
+
     }
 }
