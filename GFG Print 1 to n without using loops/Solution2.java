@@ -1,5 +1,5 @@
 //tail recursive
-class Solution 
+class Solution2
 {
     static void func(int i, int N)
     {

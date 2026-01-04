@@ -1,5 +1,5 @@
 //Non tail recursion
-class Solution 
+class Solution1
 {
     
     static void printTillN(int N) {
