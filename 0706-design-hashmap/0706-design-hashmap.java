@@ -17,13 +17,13 @@ class MyHashMap
     Node[] hashTable;
     public MyHashMap() 
     {
-        hashTable = new Node[10];    
+        hashTable = new Node[13333];    
     }
     
     public void put(int key, int value) 
     {
         Node pair = new Node(key,value);
-        int index = key % 10;
+        int index = key % 13333;
         if(hashTable[index] == null)
             hashTable[index] = pair;
         else
@@ -54,7 +54,7 @@ class MyHashMap
     
     public int get(int key) 
     {
-        int index = key % 10;
+        int index = key % 13333;
         if(hashTable[index] == null)
             return -1;
         Node curr = hashTable[index];
@@ -69,7 +69,7 @@ class MyHashMap
     
     public void remove(int key) 
     {
-        int index = key % 10;
+        int index = key % 13333;
         if(hashTable[index] == null)
             return;
         Node curr = hashTable[index];
