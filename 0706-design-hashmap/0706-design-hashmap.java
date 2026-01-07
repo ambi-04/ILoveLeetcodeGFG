@@ -84,6 +84,7 @@ class MyHashMap
                 {
                     prev.next = curr.next;
                 }
+                break;
             }
             prev = curr;
             curr = curr.next;
