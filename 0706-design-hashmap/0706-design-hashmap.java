@@ -1,3 +1,5 @@
+//implemented using Open chaining
+//Hash function used = key % table size
 class MyHashMap 
 {
     static class Node
@@ -21,7 +23,7 @@ class MyHashMap
     public void put(int key, int value) 
     {
         Node pair = new Node(key,value);
-        int index = key % 1333332;
+        int index = key % 1333333;
         if(hashTable[index] == null)
             hashTable[index] = pair;
         else
@@ -52,7 +54,7 @@ class MyHashMap
     
     public int get(int key) 
     {
-        int index = key % 1333332;
+        int index = key % 1333333;
         if(hashTable[index] == null)
             return -1;
         Node curr = hashTable[index];
@@ -67,7 +69,7 @@ class MyHashMap
     
     public void remove(int key) 
     {
-        int index = key % 1333332;
+        int index = key % 1333333;
         if(hashTable[index] == null)
             return;
         Node curr = hashTable[index];
