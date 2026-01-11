@@ -1,3 +1,4 @@
+//Approach 1 - without bit masking
 class CheckBit {
     static boolean checkKthBit(int n, int k) {
         // code here
