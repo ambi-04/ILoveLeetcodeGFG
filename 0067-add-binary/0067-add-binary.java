@@ -18,12 +18,12 @@ class Solution {
                 sum = sum + b.charAt(j) - '0';
             carry = sum / 2;
             sum = sum % 2;
-            result.append((char)(sum + '0'));
+            result.append(sum);
             i--;
             j--;
         }
         if(carry != 0)
-            result.append((char)(carry + '0'));
+            result.append(carry);
         return result.reverse().toString();
 
         
