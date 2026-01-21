@@ -12,6 +12,7 @@ https://leetcode.com/u/ambi-04/
 
 GeeksforGeeks (GFG):
 https://www.geeksforgeeks.org/profile/ambi04?tab=activity 
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/ambi04)](https://www.geeksforgeeks.org/profile/ambi04?tab=activity)
 
 ---
 ## Goals
