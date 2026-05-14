@@ -41,12 +41,15 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
 <!---LeetCode Topics End-->
