@@ -22,11 +22,15 @@ class Solution {
             }
         }
         int cnt = 0;
+        /*
         while(max != 0)
         {
             cnt++;
             max = max/10;
         }
+        */
+        if (max != 0)
+            cnt = (int)(Math.log10(max) + 1);
         return cnt;
     }
 }
