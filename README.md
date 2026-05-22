@@ -40,6 +40,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0066-plus-one/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
@@ -67,6 +68,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
 ## Math
