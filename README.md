@@ -47,6 +47,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
