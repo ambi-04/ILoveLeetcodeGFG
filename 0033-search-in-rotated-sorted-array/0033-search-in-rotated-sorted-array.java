@@ -7,7 +7,7 @@ class Solution {
         while(start <= end)
         {
             int mid = start + (end - start)/2;
-            System.out.println(mid);
+            //System.out.println(mid);
             if(nums[mid] == target)
                 return mid;
             //left half sorted
