@@ -9,7 +9,7 @@ I actively solve problems on the following platforms:
 
 LeetCode:
 https://leetcode.com/u/ambi-04/  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?ambi-04=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/ambi-04?theme=dark&acceptance=false&reputation=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif)
 
 
 GeeksforGeeks (GFG):
