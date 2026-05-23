@@ -106,6 +106,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
