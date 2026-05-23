@@ -90,6 +90,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,4 +113,24 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
