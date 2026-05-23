@@ -8,7 +8,9 @@ This repository will contain Data Structures and Algorithms (DSA) problems solve
 I actively solve problems on the following platforms:
 
 LeetCode:
-https://leetcode.com/u/ambi-04/
+https://leetcode.com/u/ambi-04/  
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ambi-04&theme=Dark)](https://leetcode.com/u/ambi-04/)  
+
 
 GeeksforGeeks (GFG):
 https://www.geeksforgeeks.org/profile/ambi04?tab=activity 
