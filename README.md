@@ -46,6 +46,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0066-plus-one](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0066-plus-one/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
