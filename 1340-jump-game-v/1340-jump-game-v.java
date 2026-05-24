@@ -37,7 +37,7 @@ class Solution
                 dp[i] = solution(dp,arr,i,d);
             max = Math.max(max,dp[i]);
         }
-        System.out.println(Arrays.toString(dp));
+        //System.out.println(Arrays.toString(dp));
         return max;
         
     }
