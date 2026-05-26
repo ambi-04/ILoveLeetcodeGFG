@@ -67,6 +67,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
