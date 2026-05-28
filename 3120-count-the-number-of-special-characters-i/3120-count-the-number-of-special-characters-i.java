@@ -1,31 +1,28 @@
 class Solution {
     public int numberOfSpecialChars(String word) 
     {
-        //array approach
-        int n = word.length();
-        int[] arr = new int[26];
+        //bit manipulation approach
+        int lower = 0;
+        int upper = 0;
+        for(int i = 0; i < word.length(); i++)
+        {
+            char ch = word.charAt(i);
+            if(ch - 'a' >= 0)//lowercase
+            {
+                lower = lower | (1 << (ch - 'a' + 1));
+            }
+            else
+                upper = upper | (1 << (ch - 'A' + 1));
+        }
+        int special = lower & upper;
         int cnt = 0;
-        for(int i  = 0; i < n; i++)
+        while(special != 0)
         {
-            char ch = word.charAt(i);
-            if(ch - 'a' >= 0)
-                arr[ch - 'a'] = 1;
-        }
-        for(int i = 0; i < n; i++)
-        {
-            char ch = word.charAt(i);
-            if(ch - 'a' < 0 && arr[ch - 'A'] == 1)
-                arr[ch - 'A'] = -1;
-            
-        }
-        for(int i = 0; i < 26; i++)
-        {
-            if(arr[i] == -1)
-                cnt++;
+            special = special & (special - 1);
+            cnt++;
             
         }
         return cnt;
-
         
     }
 }
