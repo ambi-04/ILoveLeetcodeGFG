@@ -100,6 +100,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0993-cousins-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -107,6 +108,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -140,6 +142,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -150,6 +153,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Simulation
