@@ -55,6 +55,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1929-concatenation-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -76,6 +77,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
 | [2126-destroying-asteroids](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
