@@ -32,7 +32,7 @@ class Solution {
             else
                 result2 = Math.min(result2,landStartTime[i] + landDuration[i]);
         }
-        System.out.println(result1 + " " + result2);
+        //System.out.println(result1 + " " + result2);
         return Math.min(result1,result2);
 
 
