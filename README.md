@@ -97,12 +97,14 @@ If you find this repository helpful, consider giving it a star!😸
 | [0066-plus-one](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0070-climbing-stairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0070-climbing-stairs/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +178,8 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1929-concatenation-of-array/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
