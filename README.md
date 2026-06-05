@@ -81,6 +81,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
 | [2126-destroying-asteroids](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -128,6 +129,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -169,6 +171,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -182,6 +185,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
