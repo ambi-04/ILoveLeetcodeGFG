@@ -48,12 +48,10 @@ class Solution {
             set.add(child);
             
         }
-        for(Map.Entry<Integer,TreeNode> entry: nodeMap.entrySet())
+        for(int val:nodeMap.keySet())
         {
-            int key = entry.getKey();
-            TreeNode node = entry.getValue();
-            if(!set.contains(key))
-                return node;
+            if(!set.contains(val))
+                return nodeMap.get(val);
         }
         return null;
         
