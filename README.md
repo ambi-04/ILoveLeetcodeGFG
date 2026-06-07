@@ -56,6 +56,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1929-concatenation-of-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1929-concatenation-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -69,6 +70,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -172,6 +174,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Binary Search Tree
@@ -186,6 +189,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Simulation
