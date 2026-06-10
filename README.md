@@ -158,6 +158,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -182,11 +184,13 @@ If you find this repository helpful, consider giving it a star!😸
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -206,4 +210,8 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
