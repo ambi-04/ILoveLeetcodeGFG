@@ -104,6 +104,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0066-plus-one](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0070-climbing-stairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +186,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [2196-create-binary-tree-from-descriptions](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
