@@ -13,10 +13,9 @@ class Solution
         for(int i = 1; i <= n; i++)
         {
             //boolean dp2 = new boolean[w + 1];
-            for(int j = w; j >= 0; j--)
+            for(int j = w; j >= nums[i - 1]; j--)
             {
-                if(j >= nums[i - 1])
-                    dp[j] = dp[j] || dp[j - nums[i -  1]];        
+                dp[j] = dp[j] || dp[j - nums[i -  1]];        
             }
         }
         return dp[w];
