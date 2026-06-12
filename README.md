@@ -47,6 +47,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
@@ -110,6 +111,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0070-climbing-stairs/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
