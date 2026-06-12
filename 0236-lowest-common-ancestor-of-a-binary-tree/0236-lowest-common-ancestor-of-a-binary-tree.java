@@ -15,14 +15,12 @@ class Solution
             return root;
         TreeNode left = solution(root.left,p,q);
         TreeNode right = solution(root.right,p,q);
-        if(left != null && right != null)
-            return root;
-        if(left != null)
-            return left;
-        else if(right != null)
+        if(left == null)
             return right;
+        if(right == null)
+            return left;
         else
-            return null;
+            return root;
 
 
 
