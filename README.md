@@ -68,6 +68,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1929-concatenation-of-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
