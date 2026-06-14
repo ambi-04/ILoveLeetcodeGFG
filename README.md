@@ -147,6 +147,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -232,4 +233,9 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
