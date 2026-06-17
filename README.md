@@ -106,6 +106,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [0066-plus-one](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0070-climbing-stairs/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -155,6 +156,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -244,4 +246,8 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 <!---LeetCode Topics End-->
