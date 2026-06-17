@@ -163,6 +163,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -223,6 +224,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1929-concatenation-of-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
