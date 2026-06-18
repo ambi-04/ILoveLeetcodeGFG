@@ -128,6 +128,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
@@ -162,6 +163,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0880-decoded-string-at-index/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -196,6 +198,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -217,6 +220,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
