@@ -107,6 +107,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0066-plus-one](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0070-climbing-stairs/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
