@@ -1,23 +1,23 @@
-class Solution {
+class Solution 
+{
     public char findKthBit(int n, int k) 
     {
-        StringBuilder sb = new StringBuilder("0");
-        for(int i = 1; i <= n; i++)
+        if(n == 1)
+            return '0';
+        int N = (int)Math.pow(2,n) - 1;//no of characters in nth row
+        int mid = N/2 + 1;
+        if(k == mid)
+            return '1';
+        if(k > mid )
         {
-            int n2 = sb.length();
-            sb.append("1");
-            for(int j = n2 - 1; j>= 0; j--)
-            {
-                char ch = sb.charAt(j);
-                if(ch == '0')
-                    sb.append('1');
-                else
-                    sb.append('0');
-            }
-            //System.out.println(prev);
-            //prev = curr;
-        }
-        return sb.charAt(k - 1);
+            char ch = findKthBit(n - 1, N - k + 1);
+            if(ch == '0')
+                return '1';
+            else
+                return '0';
+        }    
+        else
+            return findKthBit(n - 1, k);
 
         
     }
