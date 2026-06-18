@@ -1,11 +1,30 @@
 class Solution {
     public int brokenCalc(int startValue, int target) 
     {
-        if(target <= startValue)
-            return startValue - target;
-        if(target % 2 == 0)
-            return 1 + brokenCalc(startValue,target/2);
-        return 2 + brokenCalc(startValue, (target + 1)/2);
+        int cnt = 0;
+        while(target != startValue)
+        {
+            if(target < startValue)
+            {
+                cnt = cnt + startValue - target;
+                target = startValue;
+            }
+            else
+            {
+                if(target % 2 == 0)
+                {
+                    target = target /2;
+                    cnt++;
+                }
+                else
+                {
+                    target = (target + 1)/2;
+                    cnt+=2;
+                }
+            }
+            //System.out.println(target + " " + cnt);
+        }
+        return cnt;
         
     }
 }
