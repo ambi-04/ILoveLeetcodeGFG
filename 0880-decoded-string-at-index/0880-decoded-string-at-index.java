@@ -18,7 +18,7 @@ class Solution {
                 lengths[i] = cnt;
             }
         }
-        System.out.println(Arrays.toString(lengths));
+        //System.out.println(Arrays.toString(lengths));
         for(int j = n - 1; j >= 0; j--)
         {
             char ch = s.charAt(j);
