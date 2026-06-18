@@ -162,6 +162,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0880-decoded-string-at-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0880-decoded-string-at-index/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -248,6 +249,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0880-decoded-string-at-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0880-decoded-string-at-index/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
