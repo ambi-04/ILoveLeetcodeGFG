@@ -56,6 +56,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1470-shuffle-the-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1470-shuffle-the-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1929-concatenation-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -88,6 +89,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -189,6 +191,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [0991-broken-calculator](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0991-broken-calculator/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -264,4 +267,8 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
