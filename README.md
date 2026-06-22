@@ -79,6 +79,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
 | [2641-cousins-in-binary-tree-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -173,6 +174,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -274,4 +276,5 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 <!---LeetCode Topics End-->
