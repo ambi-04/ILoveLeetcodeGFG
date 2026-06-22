@@ -50,6 +50,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0416-partition-equal-subset-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
@@ -76,6 +77,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -171,6 +173,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0880-decoded-string-at-index/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -274,6 +277,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
