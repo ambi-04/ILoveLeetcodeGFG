@@ -77,6 +77,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
+| [0383-ransom-note](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0383-ransom-note/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
@@ -171,6 +172,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0383-ransom-note/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0880-decoded-string-at-index/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -277,6 +279,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0383-ransom-note/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1833-maximum-ice-cream-bars/) | Medium |
