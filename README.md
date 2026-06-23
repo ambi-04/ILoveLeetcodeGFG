@@ -68,6 +68,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -118,6 +119,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0991-broken-calculator](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0991-broken-calculator/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -260,6 +262,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
