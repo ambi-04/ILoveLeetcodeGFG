@@ -50,6 +50,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0416-partition-equal-subset-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
@@ -130,6 +131,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0070-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0070-climbing-stairs/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
