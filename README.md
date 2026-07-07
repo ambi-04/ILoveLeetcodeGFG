@@ -52,6 +52,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0494-target-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1306-jump-game-iii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
@@ -81,6 +82,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
 | [0383-ransom-note](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0383-ransom-note/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1345-jump-game-iv/) | Hard |
@@ -96,6 +98,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0217-contains-duplicate/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2126-destroying-asteroids/) | Medium |
@@ -109,6 +112,7 @@ If you find this repository helpful, consider giving it a star!😸
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -136,6 +140,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0518-coin-change-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -188,6 +193,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0516-longest-palindromic-subsequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0880-decoded-string-at-index/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -205,6 +211,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
