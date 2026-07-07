@@ -138,6 +138,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1340-jump-game-v](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1340-jump-game-v/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
@@ -192,6 +193,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [1143-longest-common-subsequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
