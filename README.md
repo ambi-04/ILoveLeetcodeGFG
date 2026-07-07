@@ -133,6 +133,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0416-partition-equal-subset-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0518-coin-change-ii/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -182,6 +183,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0383-ransom-note/) | Easy |
+| [0583-delete-operation-for-two-strings](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0880-decoded-string-at-index/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/1092-shortest-common-supersequence/) | Hard |
