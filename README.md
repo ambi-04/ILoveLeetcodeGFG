@@ -125,6 +125,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
