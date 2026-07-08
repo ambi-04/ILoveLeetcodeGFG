@@ -135,6 +135,7 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0115-distinct-subsequences/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -190,6 +191,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0115-distinct-subsequences/) | Hard |
 | [0383-ransom-note](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0383-ransom-note/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0583-delete-operation-for-two-strings/) | Medium |
