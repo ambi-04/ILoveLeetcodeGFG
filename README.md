@@ -72,6 +72,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -94,6 +95,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [2784-check-if-array-is-good](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ If you find this repository helpful, consider giving it a star!😸
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Math
@@ -318,4 +321,12 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0494-target-sum/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
