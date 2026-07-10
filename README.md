@@ -181,6 +181,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/2540-minimum-common-value/) | Easy |
@@ -194,6 +195,7 @@ If you find this repository helpful, consider giving it a star!😸
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0115-distinct-subsequences](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0115-distinct-subsequences/) | Hard |
 | [0383-ransom-note](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0383-ransom-note/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -329,4 +331,8 @@ If you find this repository helpful, consider giving it a star!😸
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ambi-04/ILoveLeetcodeGFG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
